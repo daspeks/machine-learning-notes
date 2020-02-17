@@ -1,1 +1,1 @@
-# machine-learning-notes
+# Notes :rocket:
