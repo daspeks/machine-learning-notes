@@ -1,5 +1,5 @@
 # Support Vectorm Machine (SVM) :rocket:
-![](https://img.shields.io/github/size/daspeks/machine-learning-notes/svm.md)
+![](https://img.shields.io/github/size/daspeks/machine-learning-notes/svm.md?color=green&label=Repository%20Size)
 
 * SVMs are used for 
     * classification (linear and non linear)
